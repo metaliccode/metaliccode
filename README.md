@@ -15,7 +15,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
 ### Frameworks
 <p>
    <img src="https://img.shields.io/badge/Framework-Laravel-red?&logo=laravel" />
-   <img src="https://img.shields.io/badge/Framework-VueJs-blue?&logo=vue.js" />
+   <img src="https://img.shields.io/badge/Framework-VueJs-green?&logo=vue.js" />
    <img src="https://img.shields.io/badge/Framework-CI-red?&logo=codeigniter" />
 <p>
 
