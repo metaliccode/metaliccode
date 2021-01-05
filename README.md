@@ -28,10 +28,10 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
 ### Let's connect!
 <p>
 <!--     <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.id-green?" /></a> -->
-    <a href="www.linkedin.com/in/isanz-mh" target="_blank"><img src="https://img.shields.io/badge/Ihsan_Miftahul_Huda-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://www.instagram.com/Isanz_mh/" target="_blank"><img src="https://img.shields.io/badge/isanz_mh-30302f?style=flat&logo=instagram" /></a>
-    <a href="https://web.facebook.com/izangym" target="_blank"><img src="https://img.shields.io/badge/Isan'z_M-30302f?style=flat&logo=facebook" /></a>
-    <a href="https://www.youtube.com/channel/UCWVXcK2pKYRzCfbzAdxSfVA" target="_blank"><img src="https://img.shields.io/badge/Isan'z_M-30302f?style=flat&logo=youtube" /></a>
+    <a href="www.linkedin.com/in/isanz-mh" target="__blank"><img src="https://img.shields.io/badge/Ihsan_Miftahul__Huda-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.instagram.com/Isanz_mh/" target="__blank"><img src="https://img.shields.io/badge/isanz_mh-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://web.facebook.com/izangym" target="__blank"><img src="https://img.shields.io/badge/Isan'z_M-30302f?style=flat&logo=facebook" /></a>
+    <a href="https://www.youtube.com/channel/UCWVXcK2pKYRzCfbzAdxSfVA" target="__blank"><img src="https://img.shields.io/badge/Isan'z_M-30302f?style=flat&logo=youtube" /></a>
   
 <!--     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a> -->
 <!--     <a href="https://https://twitter.com/bagusfedotid" target="blank"><img src="https://img.shields.io/badge/@bagusfedotid-30302f?style=flat&logo=twitter" /></a> -->
