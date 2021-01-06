@@ -44,7 +44,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
     <a href="https://www.youtube.com/channel/UCWVXcK2pKYRzCfbzAdxSfVA" target="_blank"><img src="https://img.shields.io/badge/Isan'z_M-30302f?style=flat&logo=youtube" /></a>
     <a href="www.linkedin.com/in/isanz-mh" target="_blank"><img src="https://img.shields.io/badge/Ihsan_Miftahul_Huda-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://youtube.com/akshaymarch7">
-        <img align="left" alt="Ihsan Miftahul Huda - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+        <img align="left" alt="Ihsan Miftahul Huda - Youtube" width="22px" src="https://img.icons8.com/flat_round/64/000000/link--v1.png"/>
     </a>
   
 <!--     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a> -->
