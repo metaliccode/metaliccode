@@ -52,7 +52,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
         <img align="left" alt="Ihsan Miftahul Huda - LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/fa314a/linkedin.png"/>
     </a>
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
+ <summary><strong>Contact Me!</strong></summary>
     <a href="https://www.instagram.com/Isanz_mh/" target="_blank"><img src="https://img.shields.io/badge/isanz_mh-30302f?style=flat&logo=instagram" /></a>
     <a href="https://web.facebook.com/izangym" target="_blank"><img src="https://img.shields.io/badge/Isan'z_M-30302f?style=flat&logo=facebook" /></a>
     <a href="https://www.youtube.com/channel/UCWVXcK2pKYRzCfbzAdxSfVA" target="_blank"><img src="https://img.shields.io/badge/Isan'z_M-30302f?style=flat&logo=youtube" /></a>
