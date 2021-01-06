@@ -48,8 +48,8 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
     <a href="https://www.youtube.com/channel/UCWVXcK2pKYRzCfbzAdxSfVA" target="_blank">
         <img align="left" alt="Ihsan Miftahul Huda - Youtube" width="22px" src="https://img.icons8.com/ios-filled/50/fa314a/youtube-play.png"/>
     </a> 
-    <a href="www.linkedin.com/in/isanz-mh" target="_blank">
-        <img align="left" alt="Ihsan Miftahul Huda - LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/fa314a/linkedin.png"/>
+    <a href="https://linkedin.com/in/isanz-mh" target="__blank>
+     <img align="left" alt="Ihsan Miftahul Huda - LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/fa314a/linkedin.png"/>
     </a>
     
 <details>
@@ -57,7 +57,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
     <a href="https://www.instagram.com/Isanz_mh/" target="_blank"><img src="https://img.shields.io/badge/isanz_mh-30302f?style=flat&logo=instagram" /></a>
     <a href="https://web.facebook.com/izangym" target="_blank"><img src="https://img.shields.io/badge/Isan'z_M-30302f?style=flat&logo=facebook" /></a>
     <a href="https://www.youtube.com/channel/UCWVXcK2pKYRzCfbzAdxSfVA" target="_blank"><img src="https://img.shields.io/badge/Isan'z_M-30302f?style=flat&logo=youtube" /></a>
-    <a href="www.linkedin.com/in/isanz-mh" target="_blank"><img src="https://img.shields.io/badge/Ihsan_Miftahul_Huda-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://linkedin.com/in/isanz-mh" target="__blank"><img src="https://img.shields.io/badge/Ihsan_Miftahul_Huda-30302f?style=flat&logo=linkedin" /></a>
 </details>    
   
 <!--     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a> -->
