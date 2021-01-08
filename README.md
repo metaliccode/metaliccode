@@ -55,7 +55,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
 <details>
  <summary><strong>Contact Me!</strong></summary>
     <br>
-    <a href="https://wa.me/085352044517?text=urlencodedtext" target="_blank"><img src="https://img.shields.io/badge/isanz_mh-30302f?style=flat&logo=whatsapp" /></a>
+    <a href="https://wa.me/085352044517?text=Hallo Ihsan Miftahul Huda, Now I'm looking for Web Developer" target="_blank"><img src="https://img.shields.io/badge/isanz_mh-30302f?style=flat&logo=whatsapp" /></a>
     <a href="https://www.instagram.com/Isanz_mh/" target="_blank"><img src="https://img.shields.io/badge/isanz_mh-30302f?style=flat&logo=instagram" /></a>
     <a href="https://web.facebook.com/izangym" target="_blank"><img src="https://img.shields.io/badge/Isan'z_M-30302f?style=flat&logo=facebook" /></a>
     <a href="https://www.youtube.com/channel/UCWVXcK2pKYRzCfbzAdxSfVA" target="_blank"><img src="https://img.shields.io/badge/Ihsan_Miftahul_Huda-30302f?style=flat&logo=youtube" /></a>
