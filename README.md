@@ -15,9 +15,11 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
 ### Frameworks
 <p>
    <img src="https://img.shields.io/badge/Framework-Laravel-red?&logo=laravel" />
+   <img src="https://img.shields.io/badge/Framework-NodeJs-green?&logo=node.js" />
+   <img src="https://img.shields.io/badge/Framework-Flutter-blue?&logo=flutter" />
    <img src="https://img.shields.io/badge/Framework-VueJs-green?&logo=vue.js" />
    <img src="https://img.shields.io/badge/Framework-CI-red?&logo=codeigniter" />
-   <img src="https://img.shields.io/badge/Library-ReactJS-red?&logo=react" />
+   <img src="https://img.shields.io/badge/Library-ReactJS-green?&logo=react" />
 <p>
 
 ### Stats
