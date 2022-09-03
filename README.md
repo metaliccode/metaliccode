@@ -19,7 +19,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
    <img src="https://img.shields.io/badge/Framework-Flutter-blue?&logo=flutter" />
    <img src="https://img.shields.io/badge/Framework-VueJs-green?&logo=vue.js" />
    <img src="https://img.shields.io/badge/Framework-CI-red?&logo=codeigniter" />
-   <img src="https://img.shields.io/badge/Library-ReactJS-green?&logo=react" />
+   <img src="https://img.shields.io/badge/Framework-ReactJS/Native-blue?&logo=react" />
 <p>
 
 ### Stats
