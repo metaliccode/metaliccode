@@ -23,10 +23,10 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
 
 ### What i am learning/working on these days 
 </summary>
-    - 🔭 I’m currently at Inixindo Bandung as IT Instructor for Programming, Databases & Offices</br>
+    - 🔭 I’m currently at <a href="https://www.inixindo.id/">Inixindo<a> Bandung as IT Instructor for Programming, Databases & Offices</br>
     - 🌱 I’m currently learning Github Actions, Docker & Kubernetes</br>
     - 👯 I’m looking to collaborate on any open source projects related to PHP, Laravel and JavaScript (ReactJs preferrable)</br>
-    - 🤔 I’m looking for help with building a new course at Inixindo Bandung</br>
+    - 🤔 I’m looking for help with building a new course at <a href="https://www.inixindo.id/">Inixindo<a> Bandung</br>
     - 💬 Ask me about anything related to PHP, Laravel and JavaScript (ReactJS preferrable)</br>
     - 📫 How to reach me: <a href="mailto:isan.mh69@gmail.com">Email me!</a></br>
     - 😄 Pronouns: He/Him </br>
